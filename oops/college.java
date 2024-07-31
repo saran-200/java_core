@@ -1,7 +1,4 @@
 package oops;
-
-import java.net.SocketPermission;
-
 /////////////////////////////////////////multilevel /////////////////////////////////////
 // public class college {
 //     public void management(){
@@ -23,7 +20,6 @@ import java.net.SocketPermission;
 //         System.out.println("rep");
 //         System.out.println("A.rep");
 //     }
-
 // public static void main(String[]arg){
 //     stude s=new stude();
 //     s.stu();
